@@ -1,0 +1,7 @@
+['9-2X', '1', 'https://cars.av.by/saab/9-2x']
+['9-3', '54', 'https://cars.av.by/saab/9-3']
+['9-5', '57', 'https://cars.av.by/saab/9-5']
+['9-7X', '2', 'https://cars.av.by/saab/9-7x']
+['900', '4', 'https://cars.av.by/saab/900']
+['9000', '24', 'https://cars.av.by/saab/9000']
+['99', '1', 'https://cars.av.by/saab/99']

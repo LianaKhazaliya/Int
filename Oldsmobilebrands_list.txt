@@ -1,0 +1,2 @@
+['88', '1', 'https://cars.av.by/oldsmobile/88']
+['Achieva', '1', 'https://cars.av.by/oldsmobile/achieva']

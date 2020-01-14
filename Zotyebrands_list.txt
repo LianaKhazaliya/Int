@@ -1,0 +1,2 @@
+['T600', '1', 'https://cars.av.by/zotye/t600']
+['Z300', '3', 'https://cars.av.by/zotye/z300']

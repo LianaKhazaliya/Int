@@ -1,0 +1,8 @@
+['Defender', '6', 'https://cars.av.by/land-rover/defender']
+['Discovery', '66', 'https://cars.av.by/land-rover/discovery']
+['Discovery Sport', '23', 'https://cars.av.by/land-rover/discovery-sport']
+['Freelander', '94', 'https://cars.av.by/land-rover/freelander']
+['Range Rover', '114', 'https://cars.av.by/land-rover/range-rover']
+['Range Rover Evoque', '32', 'https://cars.av.by/land-rover/range-rover-evoque']
+['Range Rover Sport', '105', 'https://cars.av.by/land-rover/range-rover-sport']
+['Range Rover Velar', '3', 'https://cars.av.by/land-rover/range-rover-velar']

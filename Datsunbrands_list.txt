@@ -1,0 +1,2 @@
+['mi-DO', '2', 'https://cars.av.by/datsun/mi-do']
+['on-DO', '10', 'https://cars.av.by/datsun/on-do']

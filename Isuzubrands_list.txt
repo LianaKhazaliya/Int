@@ -1,0 +1,6 @@
+['Amigo', '1', 'https://cars.av.by/isuzu/amigo']
+['Axiom', '1', 'https://cars.av.by/isuzu/axiom']
+['D-Max', '2', 'https://cars.av.by/isuzu/d-max']
+['Midi', '4', 'https://cars.av.by/isuzu/midi']
+['Rodeo', '8', 'https://cars.av.by/isuzu/rodeo']
+['Trooper', '13', 'https://cars.av.by/isuzu/trooper']

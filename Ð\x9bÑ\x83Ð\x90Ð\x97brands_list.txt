@@ -1,0 +1,3 @@
+['1302', '1', 'https://cars.av.by/luaz/1302']
+['967', '5', 'https://cars.av.by/luaz/967']
+['969', '28', 'https://cars.av.by/luaz/969']

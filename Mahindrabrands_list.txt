@@ -1,0 +1,1 @@
+['Pik-Up', '1', 'https://cars.av.by/mahindra/pik-up']

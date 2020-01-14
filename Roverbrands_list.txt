@@ -1,0 +1,8 @@
+['200', '81', 'https://cars.av.by/rover/200']
+['25', '11', 'https://cars.av.by/rover/25']
+['400', '112', 'https://cars.av.by/rover/400']
+['45', '34', 'https://cars.av.by/rover/45']
+['600', '69', 'https://cars.av.by/rover/600']
+['75', '54', 'https://cars.av.by/rover/75']
+['800', '7', 'https://cars.av.by/rover/800']
+['Mini', '1', 'https://cars.av.by/rover/mini']

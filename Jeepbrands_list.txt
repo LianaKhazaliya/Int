@@ -1,0 +1,8 @@
+['Cherokee', '32', 'https://cars.av.by/jeep/cherokee']
+['Commander', '6', 'https://cars.av.by/jeep/commander']
+['Compass', '12', 'https://cars.av.by/jeep/compass']
+['Grand Cherokee', '139', 'https://cars.av.by/jeep/grand-cherokee']
+['Liberty', '6', 'https://cars.av.by/jeep/liberty']
+['Patriot', '7', 'https://cars.av.by/jeep/patriot']
+['Renegade', '4', 'https://cars.av.by/jeep/renegade']
+['Wrangler', '7', 'https://cars.av.by/jeep/wrangler']

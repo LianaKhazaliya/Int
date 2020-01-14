@@ -1,0 +1,8 @@
+['Breez', '3', 'https://cars.av.by/lifan/breez']
+['Cebrium', '4', 'https://cars.av.by/lifan/cebrium']
+['MyWay', '4', 'https://cars.av.by/lifan/myway']
+['Smily', '5', 'https://cars.av.by/lifan/smily']
+['Solano', '17', 'https://cars.av.by/lifan/solano']
+['X50', '16', 'https://cars.av.by/lifan/x50']
+['X70', '7', 'https://cars.av.by/lifan/x70']
+['Ð¥60', '33', 'https://cars.av.by/lifan/h60']

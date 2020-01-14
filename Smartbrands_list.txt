@@ -1,0 +1,3 @@
+['Forfour', '5', 'https://cars.av.by/smart/forfour']
+['Fortwo', '18', 'https://cars.av.by/smart/fortwo']
+['Roadster', '1', 'https://cars.av.by/smart/roadster']

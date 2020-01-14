@@ -1,0 +1,8 @@
+['Actyon', '31', 'https://cars.av.by/ssangyong/actyon']
+['Actyon Sports', '4', 'https://cars.av.by/ssangyong/actyon-sports']
+['Istana', '2', 'https://cars.av.by/ssangyong/istana']
+['Korando', '6', 'https://cars.av.by/ssangyong/korando']
+['Kyron', '49', 'https://cars.av.by/ssangyong/kyron']
+['Musso', '13', 'https://cars.av.by/ssangyong/musso']
+['Rexton', '43', 'https://cars.av.by/ssangyong/rexton']
+['Rodius', '11', 'https://cars.av.by/ssangyong/rodius']

@@ -1,0 +1,8 @@
+['Aztek', '1', 'https://cars.av.by/pontiac/aztek']
+['Bonneville', '1', 'https://cars.av.by/pontiac/bonneville']
+['Firebird', '3', 'https://cars.av.by/pontiac/firebird']
+['G6', '1', 'https://cars.av.by/pontiac/g6']
+['Grand Prix', '1', 'https://cars.av.by/pontiac/grand-prix']
+['Sunbird', '1', 'https://cars.av.by/pontiac/sunbird']
+['Trans Sport', '17', 'https://cars.av.by/pontiac/trans-sport']
+['Vibe', '26', 'https://cars.av.by/pontiac/vibe']

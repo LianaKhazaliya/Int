@@ -1,0 +1,2 @@
+['H2', '3', 'https://cars.av.by/haval/h2']
+['H6', '3', 'https://cars.av.by/haval/h6']

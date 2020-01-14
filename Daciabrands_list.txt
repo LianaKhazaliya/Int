@@ -1,0 +1,6 @@
+['1300', '1', 'https://cars.av.by/dacia/1300']
+['Dokker', '5', 'https://cars.av.by/dacia/dokker']
+['Duster', '7', 'https://cars.av.by/dacia/duster']
+['Lodgy', '9', 'https://cars.av.by/dacia/lodgy']
+['Logan', '50', 'https://cars.av.by/dacia/logan']
+['Sandero', '13', 'https://cars.av.by/dacia/sandero']

@@ -1,0 +1,2 @@
+['Estina', '2', 'https://cars.av.by/vortex/estina']
+['Tingo', '6', 'https://cars.av.by/vortex/tingo']

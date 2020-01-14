@@ -1,0 +1,3 @@
+['Model 3', '3', 'https://cars.av.by/tesla/model-3']
+['Model S', '11', 'https://cars.av.by/tesla/model-s']
+['Model X', '3', 'https://cars.av.by/tesla/model-x']

@@ -1,0 +1,2 @@
+['Road Partner', '1', 'https://cars.av.by/tagaz/road-partner']
+['Tager', '1', 'https://cars.av.by/tagaz/tager']

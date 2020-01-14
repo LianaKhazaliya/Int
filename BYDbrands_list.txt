@@ -1,0 +1,2 @@
+['F3', '2', 'https://cars.av.by/byd/f3']
+['Flyer', '1', 'https://cars.av.by/byd/flyer']

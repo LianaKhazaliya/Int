@@ -1,0 +1,1 @@
+['Samand', '11', 'https://cars.av.by/iran-khodro/samand']

@@ -1,0 +1,3 @@
+['Nexia R3', '4', 'https://cars.av.by/ravon/nexia-r3']
+['R2', '4', 'https://cars.av.by/ravon/r2']
+['R4', '5', 'https://cars.av.by/ravon/r4']

@@ -1,0 +1,2 @@
+['Persona', '17', 'https://cars.av.by/proton/persona']
+['Putra', '1', 'https://cars.av.by/proton/putra']

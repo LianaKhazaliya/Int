@@ -1,0 +1,6 @@
+['Enclave', '6', 'https://cars.av.by/buick/enclave']
+['Encore', '76', 'https://cars.av.by/buick/encore']
+['LaCrosse', '1', 'https://cars.av.by/buick/lacrosse']
+['Lucerne', '1', 'https://cars.av.by/buick/lucerne']
+['Regal', '3', 'https://cars.av.by/buick/regal']
+['RendezVous', '3', 'https://cars.av.by/buick/rendezvous']

@@ -1,0 +1,5 @@
+['Arnage', '2', 'https://cars.av.by/bentley/arnage']
+['Bentayga', '3', 'https://cars.av.by/bentley/bentayga']
+['Continental Flying Spur', '1', 'https://cars.av.by/bentley/continental-flying-spur']
+['Continental GT', '9', 'https://cars.av.by/bentley/continental-gt']
+['Mulsanne', '2', 'https://cars.av.by/bentley/mulsanne']

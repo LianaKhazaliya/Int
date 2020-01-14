@@ -1,0 +1,6 @@
+['Clubman', '16', 'https://cars.av.by/mini/clubman']
+['Cooper', '50', 'https://cars.av.by/mini/cooper']
+['Countryman', '25', 'https://cars.av.by/mini/countryman']
+['Coupe', '1', 'https://cars.av.by/mini/coupe']
+['Hatch', '5', 'https://cars.av.by/mini/hatch']
+['Paceman', '3', 'https://cars.av.by/mini/paceman']

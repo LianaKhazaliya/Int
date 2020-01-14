@@ -1,0 +1,4 @@
+['FR-S', '1', 'https://cars.av.by/scion/fr-s']
+['tC', '6', 'https://cars.av.by/scion/tc']
+['xA', '1', 'https://cars.av.by/scion/xa']
+['xB', '2', 'https://cars.av.by/scion/xb']

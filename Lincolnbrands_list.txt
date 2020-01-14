@@ -1,0 +1,7 @@
+['Continental', '3', 'https://cars.av.by/lincoln/continental']
+['Mark VII', '2', 'https://cars.av.by/lincoln/mark-vii']
+['MKC', '4', 'https://cars.av.by/lincoln/mkc']
+['MKX', '1', 'https://cars.av.by/lincoln/mkx']
+['MKZ', '5', 'https://cars.av.by/lincoln/mkz']
+['Navigator', '11', 'https://cars.av.by/lincoln/navigator']
+['Town Car', '35', 'https://cars.av.by/lincoln/town-car']

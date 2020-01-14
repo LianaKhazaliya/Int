@@ -1,0 +1,2 @@
+['Besturn B50', '1', 'https://cars.av.by/faw/besturn-b50']
+['Vita', '1', 'https://cars.av.by/faw/vita']

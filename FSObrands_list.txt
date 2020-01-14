@@ -1,0 +1,2 @@
+['Polonez', '2', 'https://cars.av.by/fso/polonez']
+['Syrena', '1', 'https://cars.av.by/fso/syrena']

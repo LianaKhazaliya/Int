@@ -1,0 +1,7 @@
+['Cougar', '1', 'https://cars.av.by/mercury/cougar']
+['Mariner', '1', 'https://cars.av.by/mercury/mariner']
+['Milan', '1', 'https://cars.av.by/mercury/milan']
+['Monterey', '1', 'https://cars.av.by/mercury/monterey']
+['Mountaineer', '1', 'https://cars.av.by/mercury/mountaineer']
+['Mystique', '2', 'https://cars.av.by/mercury/mystique']
+['Sable', '1', 'https://cars.av.by/mercury/sable']

@@ -1,0 +1,4 @@
+['Breeze', '3', 'https://cars.av.by/plymouth/breeze']
+['Grand Voyager', '1', 'https://cars.av.by/plymouth/grand-voyager']
+['Neon', '2', 'https://cars.av.by/plymouth/neon']
+['Voyager', '6', 'https://cars.av.by/plymouth/voyager']

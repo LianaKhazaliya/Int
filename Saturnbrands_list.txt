@@ -1,0 +1,3 @@
+['Aura', '1', 'https://cars.av.by/saturn/aura']
+['ION', '2', 'https://cars.av.by/saturn/ion']
+['VUE', '15', 'https://cars.av.by/saturn/vue']

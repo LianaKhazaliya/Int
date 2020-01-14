@@ -1,0 +1,8 @@
+['F-Pace', '10', 'https://cars.av.by/jaguar/f-pace']
+['F-Type', '3', 'https://cars.av.by/jaguar/f-type']
+['S-Type', '11', 'https://cars.av.by/jaguar/s-type']
+['X-Type', '15', 'https://cars.av.by/jaguar/x-type']
+['XE', '5', 'https://cars.av.by/jaguar/xe']
+['XF', '26', 'https://cars.av.by/jaguar/xf']
+['XJ', '29', 'https://cars.av.by/jaguar/xj']
+['XJS', '1', 'https://cars.av.by/jaguar/xjs']
