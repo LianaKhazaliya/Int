@@ -1,0 +1,200 @@
+Acura & ILX & Acura ILX & https://cars.av.by/acura/ilx/16436765 & 2012 & автомат & бензин & седан & 100000 & 12 000
+Acura & ILX & Acura ILX & https://cars.av.by/acura/ilx/16477896 & 2012 & автомат & бензин & седан & 107000 & 12 500
+Acura & ILX & Acura ILX & https://cars.av.by/acura/ilx/16204308 & 2012 & автомат & бензин & седан & 85000 & 15 900
+Acura & ILX & Acura ILX & https://cars.av.by/acura/ilx/16438741 & 2016 & автомат & бензин & седан & 33000 & 18 600
+Acura & ILX & Acura ILX Hybrid & https://cars.av.by/acura/ilx/16304869 & 2014 & автомат & бензин & седан & 50000 & 13 500
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16338288 & 2006 & автомат & бензин & внедорожник & 90000 & 6 800
+Acura & MDX & Acura MDX II Technology & https://cars.av.by/acura/mdx/16472960 & 2007 & автомат & бензин & внедорожник & 250000 & 12 450
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16441616 & 2005 & автомат & бензин & внедорожник & 246000 & 7 999
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16259297 & 2004 & автомат & бензин & внедорожник & 245000 & 6 900
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16436136 & 2007 & автомат & бензин & внедорожник & 161000 & 13 999
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16219781 & 2000 & автомат & бензин & внедорожник & 242000 & 5 000
+Acura & MDX & Acura MDX III & https://cars.av.by/acura/mdx/16491959 & 2014 & автомат & бензин & внедорожник & 128259 & 29 399
+Acura & MDX & Acura MDX III Advance & https://cars.av.by/acura/mdx/16464000 & 2014 & автомат & бензин & внедорожник & 67000 & 19 999
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16176883 & 2007 & автомат & бензин & внедорожник & 250000 & 11 999
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16355067 & 2007 & автомат & бензин & внедорожник & 144000 & 13 200
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16362591 & 2004 & автомат & бензин & внедорожник & 145000 & 8 000
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/14584201 & 2003 & автомат & бензин & внедорожник & 280300 & 6 000
+Acura & MDX & Acura MDX III (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) & https://cars.av.by/acura/mdx/16475930 & 2016 & автомат & бензин & внедорожник & 68000 & 38 000
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16467431 & 2005 & автомат & бензин & внедорожник & 250000 & 6 650
+Acura & MDX & Acura MDX I 3.5 AWD & https://cars.av.by/acura/mdx/14337986 & 2002 & автомат & бензин & внедорожник & 290000 & 8 200
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16400740 & 2008 & автомат & бензин & внедорожник & 102000 & 11 200
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16279453 & 2003 & автомат & бензин & внедорожник & 201000 & 7 300
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16299544 & 2008 & автомат & бензин & внедорожник & 212000 & 12 700
+Acura & MDX & Acura MDX III Advance & https://cars.av.by/acura/mdx/15627566 & 2014 & автомат & бензин & внедорожник & 118000 & 31 000
+Acura & MDX & Acura MDX II TECH Entertainment & https://cars.av.by/acura/mdx/14525034 & 2007 & автомат & бензин & внедорожник & 127000 & 12 300
+Acura & MDX & Acura MDX II (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) & https://cars.av.by/acura/mdx/16303232 & 2011 & автомат & бензин & внедорожник & 122000 & 22 900
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16390934 & 2002 & автомат & бензин & внедорожник & 189000 & 7 000
+Acura & MDX & Acura MDX III Advance & https://cars.av.by/acura/mdx/16147815 & 2014 & автомат & бензин & внедорожник & 125000 & 30 900
+Acura & MDX & Acura MDX II SPORT ENTERTAINMENT & https://cars.av.by/acura/mdx/16437192 & 2007 & автомат & бензин & внедорожник & 206000 & 13 200
+Acura & MDX & Acura MDX III (2-Ð¹ ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) MDX III & https://cars.av.by/acura/mdx/16458418 & 2017 & автомат & бензин & внедорожник & 6800 & 58 000
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16338288 & 2006 & автомат & бензин & внедорожник & 90000 & 6 800
+Acura & MDX & Acura MDX II Technology & https://cars.av.by/acura/mdx/16472960 & 2007 & автомат & бензин & внедорожник & 250000 & 12 450
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16441616 & 2005 & автомат & бензин & внедорожник & 246000 & 7 999
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16259297 & 2004 & автомат & бензин & внедорожник & 245000 & 6 900
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16436136 & 2007 & автомат & бензин & внедорожник & 161000 & 13 999
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16219781 & 2000 & автомат & бензин & внедорожник & 242000 & 5 000
+Acura & MDX & Acura MDX III & https://cars.av.by/acura/mdx/16491959 & 2014 & автомат & бензин & внедорожник & 128259 & 29 399
+Acura & MDX & Acura MDX III Advance & https://cars.av.by/acura/mdx/16464000 & 2014 & автомат & бензин & внедорожник & 67000 & 19 999
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16176883 & 2007 & автомат & бензин & внедорожник & 250000 & 11 999
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16355067 & 2007 & автомат & бензин & внедорожник & 144000 & 13 200
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16362591 & 2004 & автомат & бензин & внедорожник & 145000 & 8 000
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/14584201 & 2003 & автомат & бензин & внедорожник & 280300 & 6 000
+Acura & MDX & Acura MDX III (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) & https://cars.av.by/acura/mdx/16475930 & 2016 & автомат & бензин & внедорожник & 68000 & 38 000
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16467431 & 2005 & автомат & бензин & внедорожник & 250000 & 6 650
+Acura & MDX & Acura MDX I 3.5 AWD & https://cars.av.by/acura/mdx/14337986 & 2002 & автомат & бензин & внедорожник & 290000 & 8 200
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16400740 & 2008 & автомат & бензин & внедорожник & 102000 & 11 200
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16279453 & 2003 & автомат & бензин & внедорожник & 201000 & 7 300
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16299544 & 2008 & автомат & бензин & внедорожник & 212000 & 12 700
+Acura & MDX & Acura MDX III Advance & https://cars.av.by/acura/mdx/15627566 & 2014 & автомат & бензин & внедорожник & 118000 & 31 000
+Acura & MDX & Acura MDX II TECH Entertainment & https://cars.av.by/acura/mdx/14525034 & 2007 & автомат & бензин & внедорожник & 127000 & 12 300
+Acura & MDX & Acura MDX II (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) & https://cars.av.by/acura/mdx/16303232 & 2011 & автомат & бензин & внедорожник & 122000 & 22 900
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16390934 & 2002 & автомат & бензин & внедорожник & 189000 & 7 000
+Acura & MDX & Acura MDX III Advance & https://cars.av.by/acura/mdx/16147815 & 2014 & автомат & бензин & внедорожник & 125000 & 30 900
+Acura & MDX & Acura MDX II SPORT ENTERTAINMENT & https://cars.av.by/acura/mdx/16437192 & 2007 & автомат & бензин & внедорожник & 206000 & 13 200
+Acura & MDX & Acura MDX III (2-Ð¹ ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) MDX III & https://cars.av.by/acura/mdx/16458418 & 2017 & автомат & бензин & внедорожник & 6800 & 58 000
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16436965 & 2003 & автомат & бензин & внедорожник & 243019 & 6 100
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16448865 & 2008 & автомат & бензин & внедорожник & 154000 & 14 500
+Acura & MDX & Acura MDX II SE & https://cars.av.by/acura/mdx/14197801 & 2008 & автомат & бензин & внедорожник & 180000 & 13 178
+Acura & MDX & Acura MDX II & https://cars.av.by/acura/mdx/16389063 & 2008 & автомат & бензин & внедорожник & 186000 & 13 366
+Acura & MDX & Acura MDX III Techno & https://cars.av.by/acura/mdx/14789147 & 2014 & автомат & бензин & внедорожник & 89500 & 31 500
+Acura & MDX & Acura MDX I 3500 & https://cars.av.by/acura/mdx/16249499 & 2004 & автомат & бензин & внедорожник & 215000 & 7 500
+Acura & MDX & Acura MDX I & https://cars.av.by/acura/mdx/16346603 & 2002 & автомат & бензин & внедорожник & 345000 & 6 500
+Acura & RDX & Acura RDX I (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) turbo sh-awd & https://cars.av.by/acura/rdx/15794419 & 2009 & автомат & бензин & внедорожник & 150000 & 15 500
+Acura & RDX & Acura RDX I (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) & https://cars.av.by/acura/rdx/16462774 & 2010 & автомат & бензин & внедорожник & 63000 & 14 900
+Acura & RDX & Acura RDX I & https://cars.av.by/acura/rdx/14008695 & 2007 & автомат & бензин & внедорожник & 226000 & 10 800
+Acura & RDX & Acura RDX I (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) AWD & https://cars.av.by/acura/rdx/16440219 & 2010 & автомат & бензин & внедорожник & 201600 & 12 109
+Acura & RDX & Acura RDX I & https://cars.av.by/acura/rdx/5398129 & 2010 & автомат & бензин & внедорожник & 47230 & 16 000
+Acura & RDX & Acura RDX I & https://cars.av.by/acura/rdx/16424630 & 2007 & автомат & бензин & внедорожник & 114068 & 10 000
+Acura & RDX & Acura RDX I (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) & https://cars.av.by/acura/rdx/16261626 & 2010 & автомат & бензин & внедорожник & 54500 & 14 500
+Acura & RDX & Acura RDX I (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) & https://cars.av.by/acura/rdx/15596402 & 2011 & автомат & бензин & внедорожник & 110000 & 16 000
+Acura & RDX & Acura RDX I & https://cars.av.by/acura/rdx/16436665 & 2010 & автомат & бензин & внедорожник & 160 & 12 900
+Acura & RDX & Acura RDX I & https://cars.av.by/acura/rdx/16122089 & 2008 & автомат & бензин & внедорожник & 130000 & 10 300
+Acura & RDX & Acura RDX I (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) & https://cars.av.by/acura/rdx/16359698 & 2011 & автомат & бензин & внедорожник & 83000 & 16 000
+Acura & RL & Acura RL KB1 Modulo Performance & https://cars.av.by/acura/rl/16294458 & 2005 & автомат & бензин & седан & 260000 & 7 800
+Acura & RL & Acura RL KA9 & https://cars.av.by/acura/rl/14845616 & 2004 & автомат & бензин & седан & 125000 & 6 750
+Acura & RL & Acura RL KB1 & https://cars.av.by/acura/rl/16387286 & 2005 & автомат & бензин & седан & 142000 & 8 236
+Acura & RSX & Acura RSX type-S & https://cars.av.by/acura/rsx/16102461 & 2004 & механика & бензин & купе & 178000 & 6 300
+Acura & RSX & Acura RSX Type S & https://cars.av.by/acura/rsx/16243670 & 2003 & механика & бензин & купе & 249000 & 7 000
+Acura & TL & Acura TL II & https://cars.av.by/acura/tl/16071924 & 2002 & автомат & бензин & седан & 195000 & 4 200
+Acura & TL & Acura TL II Ð¢L & https://cars.av.by/acura/tl/16407480 & 2000 & автомат & бензин & седан & 195000 & 3 400
+Acura & TL & Acura TL III & https://cars.av.by/acura/tl/16451005 & 2005 & автомат & бензин & седан & 175000 & 5 500
+Acura & TL & Acura TL IV & https://cars.av.by/acura/tl/16465924 & 2013 & автомат & бензин & седан & 16000 & 20 000
+Acura & TL & Acura TL IV & https://cars.av.by/acura/tl/15978153 & 2010 & автомат & бензин & седан & 67809 & 12 650
+Acura & TL & Acura TL III & https://cars.av.by/acura/tl/16421333 & 2004 & автомат & бензин & седан & 236000 & 7 550
+Acura & TL & Acura TL III & https://cars.av.by/acura/tl/16304470 & 2006 & автомат & бензин & седан & 256577 & 6 999
+Acura & TL & Acura TL IV & https://cars.av.by/acura/tl/16218084 & 2013 & автомат & бензин & седан & 16000 & 21 000
+Acura & TL & Acura TL III & https://cars.av.by/acura/tl/13375065 & 2005 & автомат & бензин & седан & 320000 & 8 000
+Acura & TL & Acura TL III & https://cars.av.by/acura/tl/15882518 & 2006 & автомат & бензин & седан & 240000 & 9 000
+Acura & TL & Acura TL III Ð ÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³ & https://cars.av.by/acura/tl/16157793 & 2007 & автомат & бензин & седан & 160000 & 8 500
+Acura & TL & Acura TL III TYPE-S & https://cars.av.by/acura/tl/16255822 & 2007 & автомат & бензин & седан & 205000 & 9 700
+Acura & TL & Acura TL IV & https://cars.av.by/acura/tl/16114712 & 2010 & автомат & бензин & седан & 120000 & 16 500
+Acura & TLX & Acura TLX & https://cars.av.by/acura/tlx/16366391 & 2018 & автомат & бензин & седан & 35400 & 22 500
+Acura & TLX & Acura TLX TECH & https://cars.av.by/acura/tlx/16426318 & 2015 & автомат & бензин & седан & 27000 & 20 000
+Acura & TSX & Acura TSX II Technology & https://cars.av.by/acura/tsx/16434637 & 2013 & автомат & бензин & седан & 67000 & 14 000
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16467107 & 2006 & автомат & бензин & седан & 82000 & 6 499
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16272169 & 2005 & механика & бензин & седан & 190000 & 7 500
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/15467350 & 2012 & автомат & бензин & седан & 225000 & 11 999
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/15991638 & 2010 & автомат & бензин & седан & 149000 & 12 400
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16303993 & 2006 & автомат & бензин & седан & 160000 & 6 900
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/16429283 & 2009 & автомат & бензин & седан & 98600 & 9 999
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16411110 & 2003 & автомат & бензин & седан & 215000 & 6 150
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16184294 & 2007 & автомат & бензин & седан & 183000 & 7 000
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16431315 & 2003 & механика & бензин & седан & 171000 & 6 799
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/16403518 & 2010 & автомат & бензин & седан & 131200 & 11 550
+Acura & TSX & Acura TSX II TSX special edition & https://cars.av.by/acura/tsx/16430481 & 2011 & автомат & бензин & седан & 63947 & 12 500
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16393309 & 2007 & автомат & бензин & седан & 161471 & 8 199
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16193272 & 2004 & автомат & бензин & седан & 240000 & 6 500
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16475513 & 2004 & автомат & бензин & седан & 150000 & 6 250
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/16215632 & 2009 & автомат & бензин & седан & 120000 & 10 850
+Acura & TSX & Acura TSX II Sportwagon & https://cars.av.by/acura/tsx/16274239 & 2010 & автомат & бензин & универсал & 120000 & 12 450
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/15534561 & 2004 & механика & бензин & седан & 160000 & 7 000
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/16405453 & 2009 & автомат & бензин & седан & 160 & 10 250
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/16375146 & 2013 & автомат & бензин & седан & 21000 & 17 000
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/16168704 & 2008 & автомат & бензин & седан & 106000 & 11 500
+Acura & TSX & Acura TSX II & https://cars.av.by/acura/tsx/15698123 & 2010 & автомат & бензин & седан & 164000 & 11 500
+Acura & TSX & Acura TSX I & https://cars.av.by/acura/tsx/16089348 & 2006 & автомат & бензин & седан & 113080 & 8 050
+Acura & ZDX & Acura ZDX & https://cars.av.by/acura/zdx/14619663 & 2010 & автомат & бензин & внедорожник & 90000 & 15 950
+Acura & ZDX & Acura ZDX & https://cars.av.by/acura/zdx/15584011 & 2011 & автомат & бензин & внедорожник & 65000 & 20 011
+Acura & ZDX & Acura ZDX & https://cars.av.by/acura/zdx/15717229 & 2010 & автомат & бензин & внедорожник & 107000 & 17 413
+Alfa Romeo & 145 & Alfa Romeo 145 930 (ÑÐµÑÑÐ°Ð¹Ð»Ð¸Ð½Ð³) 1.9 JTD & https://cars.av.by/alfa-romeo/145/14016740 & 1999 & механика & дизель & хэтчбэк & 290000 & 1 800
+Alfa Romeo & 145 & Alfa Romeo 145 930 & https://cars.av.by/alfa-romeo/145/14547083 & 1995 & механика & бензин & хэтчбэк & 260000 & 600
+Alfa Romeo & 145 & Alfa Romeo 145 930 & https://cars.av.by/alfa-romeo/145/16438699 & 1999 & механика & дизель & хэтчбэк & 380000 & 1 100
+Alfa Romeo & 145 & Alfa Romeo 145 930 & https://cars.av.by/alfa-romeo/145/16418566 & 1997 & механика & бензин & хэтчбэк & 188959 & 990
+Alfa Romeo & 145 & Alfa Romeo 145 930 & https://cars.av.by/alfa-romeo/145/16232484 & 1995 & механика & бензин & хэтчбэк & 220000 & 950
+Alfa Romeo & 145 & Alfa Romeo 145 930 & https://cars.av.by/alfa-romeo/145/16120337 & 1998 & механика & бензин & хэтчбэк & 230000 & 1 350
+Alfa Romeo & 145 & Alfa Romeo 145 930 & https://cars.av.by/alfa-romeo/145/16421997 & 1999 & механика & бензин & хэтчбэк & 250000 & 1 300
+Alfa Romeo & 145 & Alfa Romeo 145 930 & https://cars.av.by/alfa-romeo/145/14525779 & 1996 & механика & бензин & хэтчбэк & 295000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16224366 & 1998 & механика & бензин & хэтчбэк & 254370 & 1 300
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16497254 & 1999 & механика & бензин & хэтчбэк & 226131 & 2 118
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16394564 & 1998 & механика & бензин & хэтчбэк & 330000 & 800
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16276776 & 1995 & механика & дизель & хэтчбэк & 452000 & 1 250
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16199736 & 1997 & механика & бензин & хэтчбэк & 250000 & 1 200
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16396452 & 1998 & механика & бензин & хэтчбэк & 310000 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16212690 & 1995 & механика & бензин & хэтчбэк & 250000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16454850 & 1999 & механика & бензин & хэтчбэк & 328000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16421773 & 1995 & механика & бензин & хэтчбэк & 2000644 & 650
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16264821 & 2000 & механика & бензин & хэтчбэк & 219000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16248659 & 1999 & механика & бензин & хэтчбэк & 215853 & 1 100
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16405106 & 2000 & механика & дизель & хэтчбэк & 265000 & 1 150
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/14626479 & 1996 & механика & бензин & хэтчбэк & 300000 & 400
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16255227 & 1995 & механика & бензин & хэтчбэк & 347000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16421799 & 1995 & механика & бензин & хэтчбэк & 149000 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16473811 & 1995 & механика & бензин & хэтчбэк & 250000 & 750
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16453612 & 1997 & механика & дизель & хэтчбэк & 380000 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16291523 & 1998 & механика & дизель & хэтчбэк & 356000 & 1 050
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/14699707 & 1998 & механика & бензин & хэтчбэк & 300000 & 500
+Alfa Romeo & 146 & Alfa Romeo 146 1.6 Twin Spark & https://cars.av.by/alfa-romeo/146/16274580 & 1998 & механика & бензин & хэтчбэк & 275000 & 900
+Alfa Romeo & 146 & Alfa Romeo 146 twin spark & https://cars.av.by/alfa-romeo/146/16408620 & 1997 & механика & бензин & хэтчбэк & 324000 & 1 506
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16273934 & 1998 & механика & бензин & хэтчбэк & 2500000 & 750
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16247466 & 1998 & механика & бензин & хэтчбэк & 274800 & 1 200
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16433747 & 1999 & механика & бензин & хэтчбэк & 0 & 900
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16166253 & 1998 & механика & бензин & хэтчбэк & 350000 & 1 950
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16224366 & 1998 & механика & бензин & хэтчбэк & 254370 & 1 300
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16497254 & 1999 & механика & бензин & хэтчбэк & 226131 & 2 118
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16394564 & 1998 & механика & бензин & хэтчбэк & 330000 & 800
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16276776 & 1995 & механика & дизель & хэтчбэк & 452000 & 1 250
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16199736 & 1997 & механика & бензин & хэтчбэк & 250000 & 1 200
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16396452 & 1998 & механика & бензин & хэтчбэк & 310000 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16212690 & 1995 & механика & бензин & хэтчбэк & 250000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16454850 & 1999 & механика & бензин & хэтчбэк & 328000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16421773 & 1995 & механика & бензин & хэтчбэк & 2000644 & 650
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16264821 & 2000 & механика & бензин & хэтчбэк & 219000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16248659 & 1999 & механика & бензин & хэтчбэк & 215853 & 1 100
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16405106 & 2000 & механика & дизель & хэтчбэк & 265000 & 1 150
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/14626479 & 1996 & механика & бензин & хэтчбэк & 300000 & 400
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16255227 & 1995 & механика & бензин & хэтчбэк & 347000 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16421799 & 1995 & механика & бензин & хэтчбэк & 149000 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16473811 & 1995 & механика & бензин & хэтчбэк & 250000 & 750
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16453612 & 1997 & механика & дизель & хэтчбэк & 380000 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16291523 & 1998 & механика & дизель & хэтчбэк & 356000 & 1 050
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/14699707 & 1998 & механика & бензин & хэтчбэк & 300000 & 500
+Alfa Romeo & 146 & Alfa Romeo 146 1.6 Twin Spark & https://cars.av.by/alfa-romeo/146/16274580 & 1998 & механика & бензин & хэтчбэк & 275000 & 900
+Alfa Romeo & 146 & Alfa Romeo 146 twin spark & https://cars.av.by/alfa-romeo/146/16408620 & 1997 & механика & бензин & хэтчбэк & 324000 & 1 506
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16273934 & 1998 & механика & бензин & хэтчбэк & 2500000 & 750
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16247466 & 1998 & механика & бензин & хэтчбэк & 274800 & 1 200
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16433747 & 1999 & механика & бензин & хэтчбэк & 0 & 900
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16166253 & 1998 & механика & бензин & хэтчбэк & 350000 & 1 950
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16472325 & 2000 & механика & бензин & седан & 243150 & 1 800
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16464546 & 1998 & механика & бензин & хэтчбэк & 290000 & 605
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16275920 & 1997 & механика & бензин & хэтчбэк & 299253 & 854
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16457085 & 1997 & механика & бензин & хэтчбэк & 111111 & 950
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16203000 & 1997 & механика & бензин & хэтчбэк & 260000 & 800
+Alfa Romeo & 146 & Alfa Romeo 146 Ð±Ð¾ÐºÑÐµÑ & https://cars.av.by/alfa-romeo/146/14358534 & 1996 & механика & бензин & хэтчбэк & 235000 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16363666 & 1995 & механика & бензин & хэтчбэк & 240000 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16432388 & 1999 & механика & дизель & хэтчбэк & 357000 & 750
+Alfa Romeo & 146 & Alfa Romeo 146 Boxer & https://cars.av.by/alfa-romeo/146/16398023 & 1997 & механика & бензин & хэтчбэк & 355000 & 500
+Alfa Romeo & 146 & Alfa Romeo 146 Twin Spark & https://cars.av.by/alfa-romeo/146/16074091 & 1997 & механика & бензин & хэтчбэк & 176000 & 2 200
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16091419 & 1997 & механика & бензин & хэтчбэк & 311000 & 900
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16426744 & 1997 & механика & бензин & хэтчбэк & 250000 & 1 035
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16378241 & 1995 & механика & бензин & хэтчбэк & 240000 & 600
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16038205 & 1996 & механика & бензин & седан & 290000 & 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16405607 & 1997 & механика & бензин & хэтчбэк & 376000 & 1 250
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16397002 & 1998 & механика & дизель & хэтчбэк & 400000 & 1 300
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/13945114 & 1998 & механика & бензин & хэтчбэк & 237000 & 1 050
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/15781736 & 1999 & механика & бензин & хэтчбэк & 250000 & 700
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/15847998 & 2000 & механика & бензин & хэтчбэк & 189900 & 1 100
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16097961 & 1997 & механика & дизель & хэтчбэк & 1 & 1 000
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16307285 & 1997 & механика & бензин & хэтчбэк & 111111 & 700
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16284605 & 1999 & механика & бензин & хэтчбэк & 1 & 1 500
+Alfa Romeo & 146 & Alfa Romeo 146 & https://cars.av.by/alfa-romeo/146/16276612 & 1998 & механика & бензин & хэтчбэк & 240000 & 600
