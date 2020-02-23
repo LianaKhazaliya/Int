@@ -222,6 +222,7 @@
 <option>Daewoo Gentra</option>
 <option>Daewoo Kalos</option>
 <option>Daewoo Lanos</option>
+<option>Daewoo Leganza</option>
 <option>Daihatsu Applause</option>
 <option>Daihatsu Charade</option>
 <option>Daihatsu Cuore</option>
@@ -365,7 +366,6 @@
 <option>Great Wall Hover</option>
 <option>Great Wall Hover H3</option>
 <option>Great Wall Hover H5</option>
-<option>Great Wall Hover H6</option>
 <option>Great Wall Hover M4</option>
 <option>Great Wall Pegasus</option>
 <option>Great Wall Peri</option>
@@ -578,7 +578,6 @@
 <option>Lincoln MKZ</option>
 <option>Lincoln Navigator</option>
 <option>Lincoln Town Car</option>
-<option>Mahindra Pik-Up</option>
 <option>Maserati Ghibli</option>
 <option>Maserati Gran Turismo</option>
 <option>Maserati Levante</option>
@@ -616,6 +615,7 @@
 <option>Mazda Xedos 9</option>
 <option>McLaren MP4-12C</option>
 <option>Mercedes-Benz 190 (W201)</option>
+<option>Mercedes-Benz AMG GT</option>
 <option>Mercedes-Benz A-Класс</option>
 <option>Mercedes-Benz A-Класс AMG</option>
 <option>Mercedes-Benz B-Класс</option>
@@ -757,6 +757,7 @@
 <option>Opel Combo</option>
 <option>Opel Commodore</option>
 <option>Opel Corsa</option>
+<option>Opel Crossland X</option>
 <option>Opel Frontera</option>
 <option>Opel Insignia</option>
 <option>Opel Kadett</option>
@@ -813,7 +814,6 @@
 <option>Pontiac Aztek</option>
 <option>Pontiac Bonneville</option>
 <option>Pontiac Firebird</option>
-<option>Pontiac G6</option>
 <option>Pontiac Grand Prix</option>
 <option>Pontiac Sunbird</option>
 <option>Pontiac Trans Sport</option>
@@ -871,7 +871,6 @@
 <option>Rover 600</option>
 <option>Rover 75</option>
 <option>Rover 800</option>
-<option>Rover CityRover</option>
 <option>Rover Streetwise</option>
 <option>Saab 9-2X</option>
 <option>Saab 9-3</option>
@@ -947,6 +946,7 @@
 <option>Suzuki Jimny</option>
 <option>Suzuki Kizashi</option>
 <option>Suzuki Liana</option>
+<option>Suzuki Reno</option>
 <option>Suzuki Splash</option>
 <option>Suzuki Swift</option>
 <option>Suzuki SX4</option>
@@ -1076,7 +1076,6 @@
 <option>Zotye Z300</option>
 <option>ZX Landmark</option>
 <option>Богдан 2310</option>
-<option>ГАЗ 21</option>
 <option>ГАЗ 24</option>
 <option>ГАЗ 3102</option>
 <option>ГАЗ 31029</option>
@@ -1114,6 +1113,7 @@
 <option>Москвич 410</option>
 <option>Москвич 412</option>
 <option>Москвич 423</option>
+<option>Москвич Святогор</option>
 <option>ТагАЗ Road Partner</option>
 <option>ТагАЗ Tager</option>
 <option>УАЗ 2206</option>
